@@ -1,0 +1,8 @@
+# Journaux et fichiers temporaires
+*.log
+*.tmp
+*~
+tmp/
+
+# Fichiers locaux et secrets
+.env
