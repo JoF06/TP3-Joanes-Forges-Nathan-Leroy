@@ -4,3 +4,4 @@ service:
   log_level: info
   environment: dev
   timeout: 30
+  max_connections:100
