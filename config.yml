@@ -1,5 +1,5 @@
 service:
   name: webapp
-  port: 8080
+  port: 8000
   log_level: info
   environment: dev
