@@ -3,3 +3,4 @@ service:
   port: 9090
   log_level: info
   environment: dev
+  timeout: 30
